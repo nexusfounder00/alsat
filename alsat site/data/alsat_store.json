@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_1231321323",
+      "username": "1231321323",
+      "discordTag": "1231321323",
+      "passwordHash": "b65e2a881fe08dbe5245d827e57f17ada3f4e244f41df30d4ce1780e5717909f",
+      "role": "ADMIN",
+      "isAdmin": true,
+      "createdAt": "2026-11-08T11:23:10.043Z"
+    },
+    {
+      "id": "usr_1794143501719_01ak",
+      "username": "scammer_bot",
+      "discordTag": "scammer_bot",
+      "passwordHash": "fee3079da33ecfc789b3a45b3d77f430aee4f7513a1ea51ad45f1675a60e5b7f",
+      "role": "USER",
+      "isAdmin": false,
+      "isBanned": true,
+      "banReason": "Dolandırıcılık / Scam",
+      "createdAt": "2026-11-08T13:11:41.719Z"
+    }
+  ],
+  "listings": [
+    {
+      "id": "LIST-1794137192172",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "Adopt Me!",
+      "title": "Mega Neon Cow - MFR Takaslık",
+      "description": "Hızlı takas arıyorum, Discord üzerinden hemen yazabilirsiniz.",
+      "offeredItemsText": "1x Mega Neon Cow Fly Ride",
+      "lookingForText": "Crow veya Evil Unicorn",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:26:32.172Z"
+    },
+    {
+      "id": "list_seed_1",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "Adopt Me!",
+      "title": "FR Shadow Dragon - Full Grown Fly Ride",
+      "description": "Temiz takas arıyorum. Full grown fly ve ride shadow dragon. Güvenli aracılık ile teslim edilir.",
+      "offeredItemsText": "1x FR Shadow Dragon (Full Grown)",
+      "lookingForText": "Bat Dragon + Frost Dragon veya denk high-tier pets",
+      "imageUrl": "/assets/adoptme/shadow-dragon.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_2",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "MM2",
+      "title": "Harvester Gun - Godly / Ancient",
+      "description": "En popüler MM2 silahlarından Harvester. Discord üzerinden doğrudan yazabilirsiniz.",
+      "offeredItemsText": "1x Harvester Gun (Ancient)",
+      "lookingForText": "Corrupt Set + Icebreaker veya teklif",
+      "imageUrl": "/assets/mm2/harvester.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_3",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "Adopt Me!",
+      "title": "Bat Dragon - Fly Ride (FR)",
+      "description": "Tertemiz Bat Dragon. Hızlı yanıt için Discord hesabımdan iletişime geçebilirsiniz.",
+      "offeredItemsText": "1x Bat Dragon Fly Ride",
+      "lookingForText": "Giraffe + Mega Turtle veya dengi teklifler",
+      "imageUrl": "/assets/adoptme/bat-dragon.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_4",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "MM2",
+      "title": "Corrupt Knife - Ultra Rare Collectible",
+      "description": "MM2 pazarının en nadir ve değerli bıçaklarından biri olan Corrupt.",
+      "offeredItemsText": "1x Corrupt Knife",
+      "lookingForText": "High value godly teklifleri veya Harvester + adds",
+      "imageUrl": "/assets/mm2/corrupt.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_5",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "Adopt Me!",
+      "title": "Mega Neon Frost Dragon - MFR",
+      "description": "MFR Frost Dragon. Çok nadir, sadece ciddi alıcılar ve güvenli takas.",
+      "offeredItemsText": "1x MFR Mega Frost Dragon",
+      "lookingForText": "High-tier mega petler veya eşdeğer koleksiyon",
+      "imageUrl": "/assets/adoptme/frost-dragon.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_6",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "MM2",
+      "title": "Icebreaker & Iceblaster Set",
+      "description": "Buz seti eksiksiz ve temiz. Discord üzerinden ekleyip teklif iletebilirsiniz.",
+      "offeredItemsText": "1x Icebreaker Knife + 1x Iceblaster Gun",
+      "lookingForText": "Candy Set veya Chroma Luger + adds",
+      "imageUrl": "/assets/mm2/icebreaker.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_7",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "Adopt Me!",
+      "title": "Mega Neon Turtle - MFR",
+      "description": "Işıltılı Mega Neon Turtle. Takasa açık, DM atınız.",
+      "offeredItemsText": "1x MFR Turtle",
+      "lookingForText": "Crow / Evil Unicorn + adds",
+      "imageUrl": "/assets/adoptme/mega-turtle.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    },
+    {
+      "id": "list_seed_8",
+      "ownerId": "usr_admin_1231321323",
+      "ownerUsername": "1231321323",
+      "ownerDiscordTag": "1231321323",
+      "game": "MM2",
+      "title": "Heartblade Knife - Pink Glow",
+      "description": "Çok popüler pembe efektli Heartblade. Temiz ve hızlı takas.",
+      "offeredItemsText": "1x Heartblade Godly Knife",
+      "lookingForText": "Batwing veya Luger",
+      "imageUrl": "/assets/mm2/heartblade.png",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-08T11:23:10.042Z"
+    }
+  ],
+  "revokedTokens": [
+    "eyJ1aWQiOiJ1c3JfYWRtaW5fMTIzMTMyMTMyMyIsInUiOiIxMjMxMzIxMzIzIiwiZCI6IjEyMzEzMjEzMjMiLCJleHAiOjE3OTY3MzQ0NTY1MjZ9.X0azub7gN7vCGyuEb_iNtKg4UlAWVm0WKHNPdsZddyI",
+    "eyJ1aWQiOiJ1c3JfYWRtaW5fMTIzMTMyMTMyMyIsInUiOiIxMjMxMzIxMzIzIiwiZCI6IjEyMzEzMjEzMjMiLCJleHAiOjE3OTY3MzQ2NTA0NDd9.YvakV4WfFsWhpKSuEEm-b72oW99T-uq47--7NJaejTU",
+    "eyJ1aWQiOiJ1c3JfYWRtaW5fMTIzMTMyMTMyMyIsInUiOiIxMjMxMzIxMzIzIiwiZCI6IjEyMzEzMjEzMjMiLCJleHAiOjE3OTY3MzQ4OTgwNjd9.89ATL9nP07Cjsy3yuMhE2BhPmGtAaCqlGdeue-Abwn4"
+  ],
+  "systemSettings": {
+    "allowNewListings": true,
+    "marketplaceMaintenance": false,
+    "allowImageUploads": true,
+    "listingCooldownSeconds": 60,
+    "preventDuplicateTitles": true,
+    "globalAnnouncement": "Alsat Roblox İlan Pazarı’na hoş geldiniz! Güvenli takas yapınız."
+  }
+}
