@@ -498,8 +498,6 @@ export default function App() {
                 {selectedGame === 'ALL' ? 'Tüm Kategoriler' : selectedGame} Pazar Vitrini ({filteredListings.length} İlan)
               </span>
             </div>
-              </span>
-            </div>
 
             {/* Search Input */}
             <div className="relative w-full sm:w-80">
